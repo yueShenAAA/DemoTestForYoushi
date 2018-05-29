@@ -1,0 +1,6 @@
+framework module Pods_DemoTestForYoushi {
+  umbrella header "Pods-DemoTestForYoushi-umbrella.h"
+
+  export *
+  module * { export * }
+}
